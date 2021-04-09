@@ -1,0 +1,163 @@
+
+[
+    {
+        "name": "Parth Natu",
+        "id": 1,
+        "imageUrl": "assets/AVATAR/image_part_001.jpg",
+        "messages": {
+          "their": [
+            {
+              "message": "hello",
+              "timestamp": "2018-12-24T05:03:30.000Z"
+            },
+            {
+              "message": "I'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  df I'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  dfI'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  dfI'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  dfI'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  dfI'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  df",
+              "timestamp": "2018-12-24T05:03:34.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:38.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:40.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:42.000Z"
+            }
+          ],
+          "yours": [
+            {
+              "message": "hello! how are you",
+              "timestamp": "2018-12-24T05:01:30.000Z"
+            },
+            {
+              "message": "I'm doing great! Thanks for asking",
+              "timestamp": "2018-12-24T05:05:30.000Z"
+            }
+          ],
+          "unread": 12
+        }
+      },
+      {
+        "name": "Samarth Joshi",
+        "id": 2,
+        "imageUrl": "assets/AVATAR/image_part_002.jpg",
+        "messages": {
+          "their": [
+            {
+              "message": "hello",
+              "timestamp": "2018-12-24T05:03:30.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:34.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:38.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:40.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:42.000Z"
+            }
+          ],
+          "yours": [
+            {
+              "message": "hello! how are you",
+              "timestamp": "2018-12-24T05:01:30.000Z"
+            },
+            {
+              "message": "I'm doing great! Thanks for asking",
+              "timestamp": "2018-12-24T05:05:30.000Z"
+            }
+          ],
+          "unread": 3
+        }
+      },
+      {
+        "name": "Lokesh Karkare",
+        "id": 3,
+        "imageUrl": "assets/AVATAR/image_part_003.jpg",
+        "messages": {
+          "their": [
+            {
+              "message": "hello",
+              "timestamp": "2018-12-24T05:03:30.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:34.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:38.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:40.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:42.000Z"
+            }
+          ],
+          "yours": [
+            {
+              "message": "hello! how are you",
+              "timestamp": "2018-12-24T05:01:30.000Z"
+            },
+            {
+              "message": "I'm doing great! Thanks for asking",
+              "timestamp": "2018-12-24T05:05:30.000Z"
+            }
+          ],
+          "unread": 0
+        }
+      },
+      {
+        "name": "Satyam Singh",
+        "id": 4,
+        "imageUrl": "assets/AVATAR/image_part_004.jpg",
+        "messages": {
+          "their": [
+            {
+              "message": "hello",
+              "timestamp": "2018-12-24T05:03:30.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:34.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:38.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:40.000Z"
+            },
+            {
+              "message": "I'm good! How are you?",
+              "timestamp": "2018-12-24T05:03:42.000Z"
+            }
+          ],
+          "yours": [
+            {
+              "message": "hello! how are you",
+              "timestamp": "2018-12-24T05:01:30.000Z"
+            },
+            {
+              "message": "I'm doing great! Thanks for asking",
+              "timestamp": "2018-12-24T05:06:30.000Z"
+            }
+          ],
+          "unread": 0
+        }
+      }
+    ]
