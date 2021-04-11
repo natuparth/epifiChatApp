@@ -1,0 +1,20 @@
+[
+  {
+      "name" : "Lokesh",
+      "imageUrl": "assets/AVATAR/3.jpg"
+  },
+  {
+    "name" : "Abhinav",
+    "imageUrl": "assets/AVATAR/6.jpg",
+    "active": true
+  },
+  {
+    "name" : "Aditi",
+    "imageUrl": "assets/AVATAR/9.jpg"
+  },
+  {
+    "name" : "Soumya",
+    "imageUrl": "assets/AVATAR/8.jpg"
+  }
+
+]

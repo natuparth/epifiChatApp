@@ -3,38 +3,51 @@
     {
         "name": "Parth Natu",
         "id": 1,
-        "imageUrl": "assets/AVATAR/image_part_001.jpg",
+        "imageUrl": "assets/AVATAR/1.jpg",
         "messages": {
           "their": [
             {
               "message": "hello",
-              "timestamp": "2018-12-24T05:03:30.000Z"
+              "timestamp": "2018-12-24T03:03:30.000Z"
             },
             {
-              "message": "I'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  df I'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  dfI'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  dfI'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  dfI'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  dfI'm good! How are you?I've been in touch with xyz do you know this or not sfdjsdlfjljl fsdf  df",
-              "timestamp": "2018-12-24T05:03:34.000Z"
+              "message": "I'm doing good! What about you?",
+              "timestamp": "2018-12-24T03:05:34.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:38.000Z"
+              "message": "Where have you been for these many days?",
+              "timestamp": "2018-12-24T03:07:38.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:40.000Z"
+              "message": "Oh! Great! How was your trip?",
+              "timestamp": "2018-12-24T03:09:40.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:42.000Z"
+              "message": "Sure man! Will do super soon",
+              "timestamp": "2018-12-24T03:12:42.000Z"
             }
           ],
           "yours": [
             {
-              "message": "hello! how are you",
-              "timestamp": "2018-12-24T05:01:30.000Z"
+              "message": "hello! how you doing bro",
+              "timestamp": "2018-12-24T03:04:30.000Z"
             },
             {
               "message": "I'm doing great! Thanks for asking",
-              "timestamp": "2018-12-24T05:05:30.000Z"
+              "timestamp": "2018-12-24T03:06:30.000Z"
+            },
+            {
+              "message": "I went for a trip to ladakh",
+              "timestamp": "2018-12-24T03:08:38.000Z"
+            },
+            
+            {
+              "message": "It was awesome! You should also go there once for sure",
+              "timestamp": "2018-12-24T03:10:38.000Z"
+            },
+            {
+              "message": "You'll forget everything!",
+              "timestamp": "2018-12-24T03:11:38.000Z"
             }
           ],
           "unread": 12
@@ -43,7 +56,7 @@
       {
         "name": "Samarth Joshi",
         "id": 2,
-        "imageUrl": "assets/AVATAR/image_part_002.jpg",
+        "imageUrl": "assets/AVATAR/2.jpg",
         "messages": {
           "their": [
             {
@@ -52,29 +65,38 @@
             },
             {
               "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:34.000Z"
+              "timestamp": "2018-12-24T05:05:34.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:38.000Z"
+              "message": "Where have you been for these many days?",
+              "timestamp": "2018-12-24T05:07:38.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:40.000Z"
+              "message": "Oh! Have you recovered fully now?",
+              "timestamp": "2018-12-24T05:09:40.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:42.000Z"
+              "message": "That's great to hear",
+              "timestamp": "2018-12-24T05:11:42.000Z"
             }
           ],
           "yours": [
             {
               "message": "hello! how are you",
-              "timestamp": "2018-12-24T05:01:30.000Z"
+              "timestamp": "2018-12-24T05:04:30.000Z"
             },
             {
               "message": "I'm doing great! Thanks for asking",
-              "timestamp": "2018-12-24T05:05:30.000Z"
+              "timestamp": "2018-12-24T05:06:30.000Z"
+            },
+            {
+              "message": "I was in home quarantine!",
+              "timestamp": "2018-12-24T05:08:38.000Z"
+            },
+            
+            {
+              "message": "Yes man! All good now",
+              "timestamp": "2018-12-24T05:10:38.000Z"
             }
           ],
           "unread": 3
@@ -83,38 +105,51 @@
       {
         "name": "Lokesh Karkare",
         "id": 3,
-        "imageUrl": "assets/AVATAR/image_part_003.jpg",
+        "imageUrl": "assets/AVATAR/3.jpg",
         "messages": {
           "their": [
             {
               "message": "hello",
-              "timestamp": "2018-12-24T05:03:30.000Z"
+              "timestamp": "2018-12-24T03:03:30.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:34.000Z"
+              "message": "Quite busy nowadays?",
+              "timestamp": "2018-12-24T03:05:34.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:38.000Z"
+              "message": "Oh! That's nice",
+              "timestamp": "2018-12-24T03:07:38.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:40.000Z"
+              "message": "Utilizing your time well",
+              "timestamp": "2018-12-24T03:07:40.000Z"
             },
             {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:42.000Z"
+              "message": "you're right! Take a break!",
+              "timestamp": "2018-12-24T03:12:42.000Z"
             }
           ],
           "yours": [
             {
-              "message": "hello! how are you",
-              "timestamp": "2018-12-24T05:01:30.000Z"
+              "message": "hiiii..",
+              "timestamp": "2018-12-24T03:04:30.000Z"
             },
             {
-              "message": "I'm doing great! Thanks for asking",
-              "timestamp": "2018-12-24T05:05:30.000Z"
+              "message": "Yes man! Working on a new project! Days are quite hectic.",
+              "timestamp": "2018-12-24T03:06:30.000Z"
+            },
+            {
+              "message": "Yes man! ",
+              "timestamp": "2018-12-24T03:08:38.000Z"
+            },
+            
+            {
+              "message": "Desperately need a trip to relax my mind",
+              "timestamp": "2018-12-24T03:08:38.000Z"
+            },
+            {
+              "message": "Let's see.",
+              "timestamp": "2018-12-24T03:13:38.000Z"
             }
           ],
           "unread": 0
@@ -123,39 +158,21 @@
       {
         "name": "Satyam Singh",
         "id": 4,
-        "imageUrl": "assets/AVATAR/image_part_004.jpg",
+        "imageUrl": "assets/AVATAR/4.jpg",
         "messages": {
           "their": [
             {
               "message": "hello",
-              "timestamp": "2018-12-24T05:03:30.000Z"
-            },
-            {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:34.000Z"
-            },
-            {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:38.000Z"
-            },
-            {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:40.000Z"
-            },
-            {
-              "message": "I'm good! How are you?",
-              "timestamp": "2018-12-24T05:03:42.000Z"
+              "timestamp": "2018-12-24T05:45:30.000Z"
             }
+            
           ],
           "yours": [
             {
               "message": "hello! how are you",
-              "timestamp": "2018-12-24T05:01:30.000Z"
-            },
-            {
-              "message": "I'm doing great! Thanks for asking",
-              "timestamp": "2018-12-24T05:06:30.000Z"
+              "timestamp": "2018-12-24T06:50:30.000Z"
             }
+            
           ],
           "unread": 0
         }

@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-    
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
            <link rel="stylesheet" href="css/main.css">
-           <script type="text/javascript" src="data/userData.json"></script>
+           <!-- <script type="text/javascript" src="data/userData.json"></script> -->
            <script type="text/javascript"  src="js/main.js"></script>
            <script type="text/javascript" src="service/readChatData.js"></script>
             
@@ -20,13 +18,14 @@
 <div class="container" id="container">
    
     <div class="backAndSearch">
-        <i class="fa fa-arrow-left"></i>
-        
+        <!-- <i class="fa fa-arrow-left"></i> -->
+        <i><img class="icon" src="./assets/icons/back.jpg"></i>
         <div id="search" class="search">
         <input id="searchInput" class="searchBar " type="text"  >
-        <i class="fa fa-times" onclick="searchBarVisiblity('hidden')"></i>
+        <!-- <i class="fa fa-times" onclick="searchBarVisiblity('hidden')"></i> -->
+        <img onclick="searchBarVisiblity('hidden')" class="icon" src="./assets/icons/cross.png">
          </div>
-         <i class="fa fa-search"  style="float: right; margin-left: auto;" onclick="searchBarVisiblity('visible')"></i>
+         <i style="float: right; margin-left: auto;" onclick="searchBarVisiblity('visible')"><img class="icon" src="./assets/icons/search.png"></i>
     </div>
     <div class="tabsContainer">
         <span class=""> Messages</span>
@@ -35,30 +34,10 @@
         
         <span class="blurText"> Status</span>
     </div>
-    <div class="favourites">
-     <span >Favourites</span> 
-     <div class="favPeople">
-     <div class="person">
-     <img src="assets/AVATAR/image_part_001.jpg">  
-     Person1  
+    <div id="favourites" class="favourites">
+         
      </div>
-     <div class="person ">
-        <img class="selected" src="assets/AVATAR/image_part_002.jpg">  
-        Person1
-     </div>
-     <div class="person">
-        <img src="assets/AVATAR/image_part_003.jpg"> 
-        Person2 
-     </div>
-     <div class="person">
-        <img src="assets/AVATAR/image_part_004.jpg">
-        Person4 
-     </div>
-     
       
-     </div>
-      <div class="border-bottom"></div> 
-    </div>  
     
     <div class="fifth" id="chatcontainer"> 
     
