@@ -84,19 +84,16 @@ class ReadChatData {
       imageTag.src = element.imageUrl
       imageDiv.appendChild(imageTag)
       var lastMsgDiv = document.createElement('div')
-      //var lastMsg = element.message.length > 20 ? element.message.slice(0,20)+'...' :element.message ;
       var lastMsg = element.message;
       var index = lastMsg.indexOf(query);
       lastMsgDiv.innerHTML = "<div class='boldText largeText'> " + element.name + "</div>";
       lastMsgDiv.innerHTML += "<div class='fadedText mediumText'>" + lastMsg.substring(index - 20 > 0 ? index - 20 : 0, index) +
         "<span class='highlight'>" + lastMsg.substring(index, index + query.length) + "</span>"
         + lastMsg.substring(index + query.length, lastMsg.length > 20 ? index + query.length : lastMsg.length) + "</div>";
-      //lastMsgDiv.classList.add('border-bottom');
 
       var lastMsgTime = new Date(element.timestamp).getHours() + ":" + new Date(element.timestamp).getMinutes();
       var unreadMsg = document.createElement('div')
       unreadMsg.innerHTML = "<p>" + lastMsgTime + "</p>";
-      //unreadMsg.classList.add('boldText')
 
 
       unreadMsg.classList.add('timeAndUnread', 'fadedText', 'mediumText')
@@ -109,8 +106,6 @@ class ReadChatData {
       elem.appendChild(lastMsgDiv);
       elem.appendChild(unreadMsg);
       elem.appendChild(borderElem)
-      //elem.addEventListener('click', ()=>{openChatForUser(element.id)})
-      //  chatElement.onclick = openChatForUser(element.id);
       document.getElementById('chatcontainer').appendChild(elem);
     });
   }

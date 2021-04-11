@@ -1,53 +1,53 @@
 <!DOCTYPE html>
 <html>
-    <head>
-           <link rel="stylesheet" href="css/main.css">
-           <!-- <script type="text/javascript" src="data/userData.json"></script> -->
-           <script type="text/javascript"  src="js/main.js"></script>
-           <script type="text/javascript" src="service/readChatData.js"></script>
-            
-    </head>
+
+<head>
+    <link rel="stylesheet" href="css/main.css">
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="service/readChatData.js"></script>
+
+</head>
 
 <body onload="populateChatData()">
-    
-    <div class="individualChat" id="individualChat">
-        <div class="emptyArea">
-   
-        </div>
-    </div>
-<div class="container" id="container">
-   
-    <div class="backAndSearch">
-        <!-- <i class="fa fa-arrow-left"></i> -->
-        <i><img class="icon" src="./assets/icons/back.jpg"></i>
-        <div id="search" class="search">
-        <input id="searchInput" class="searchBar " type="text"  >
-        <!-- <i class="fa fa-times" onclick="searchBarVisiblity('hidden')"></i> -->
-        <img onclick="searchBarVisiblity('hidden')" class="icon" src="./assets/icons/cross.png">
-         </div>
-         <i style="float: right; margin-left: auto;" onclick="searchBarVisiblity('visible')"><img class="icon" src="./assets/icons/search.png"></i>
-    </div>
-    <div class="tabsContainer">
-        <span class=""> Messages</span>
-        
-        <span class="blurText"> Groups</span>
-        
-        <span class="blurText"> Status</span>
-    </div>
-    <div id="favourites" class="favourites">
-         
-     </div>
-      
-    
-    <div class="fifth" id="chatcontainer"> 
-    
-    
-    
-    
-    
-    </div>
 
-</div>
+    <div class="individualChat" id="individualChat">
+
+    </div>
+    <div class="container" id="container">
+
+        <div class="backAndSearch">
+
+            <i><img class="icon" src="./assets/icons/back.jpg"></i>
+            <div id="search" class="search">
+                <input id="searchInput" class="searchBar " type="text">
+
+                <img onclick="searchBarVisiblity('hidden')" class="icon" src="./assets/icons/cross.png">
+            </div>
+            <i style="float: right; margin-left: auto;" onclick="searchBarVisiblity('visible')"><img class="icon"
+                    src="./assets/icons/search.png"></i>
+        </div>
+        <div class="tabsContainer">
+            <span class=""> Messages</span>
+
+            <span class="blurText"> Groups</span>
+
+            <span class="blurText"> Status</span>
+        </div>
+        <div id="favourites" class="favourites">
+
+        </div>
+
+
+        <div class="fifth" id="chatcontainer">
+
+
+
+
+
+        </div>
+
+    </div>
 
 </body>
+
 </html>
