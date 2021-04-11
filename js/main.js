@@ -101,8 +101,10 @@ function populateContentForIndividualChat(id) {
 }
 
 function searchBarVisiblity(status) {
-  if (status == "visible")
+  if (status == "visible"){
     document.getElementById('search').style.display = 'flex';
+    document.getElementById('searchInput').value = '';
+  }
   else {
     document.getElementById('search').style.display = 'none';
     populateChatData();
